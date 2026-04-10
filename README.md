@@ -5,7 +5,16 @@ Project learning - Developed an interactive dashboard using transaction and cust
 
 
 ORDER-DETAILS DASHBOARD
+
 Created interactive dashboard to track and analyze online sales data
 Used complex parameter to drill down in worksheet and customization using filter and slicer
 Created connection, join new tables, calculation to manipulate data and Anable user driven parameter for visualizations
 Used different type of customized visualization (Bar chart, Pia chart, donut chart, area chart, map, slicer etc.)
+
+HR-ANALYTICS DASHBOARD
+
+Identified key factor to reduce attrition
+Improved the hiring process
+Improved employee experience
+Made workforce more productive
+Gained employee trust
